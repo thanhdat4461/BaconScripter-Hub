@@ -10,6 +10,6 @@ Activate All Gamemode
 Much More!
 
 # Credits
-Script Owner: BaconScripter
-Script Development: BaconScripter
-Tester: BaconScripter
+Script Owner: BaconScripter,
+Script Development: BaconScripter,
+Tester: BaconScripter.
